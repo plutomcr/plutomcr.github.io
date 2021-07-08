@@ -1,15 +1,12 @@
-# Welcome to Pluto MCR
+A social group for Asexual and Aromantic people in Greater Manchester, aged 18+, including demi, grey, and questioning folks
 
-## Who are we?
-Pluto is a Manchester based group of asexual and aromantic people.
+We meet on the 3rd Wednesday of the month at 7:30pm
 
-## Upcoming Events
+All meetings are online until further notice, usually on our Discord server
 
-* Socials
-* Picnics
-* Online
-* In person
+Please contact us for access to the Discord server
 
-## Get in touch
-
-Contact us [by email](mailto:plutomcr@gmail.com)
+Contact Us
+Email: [plutomcr@gmail.com](mailto:plutomcr@gmail.com)
+Facebook: https://www.facebook.com/PlutoMCR
+Twitter: https://twitter.com/PlutoMCR
