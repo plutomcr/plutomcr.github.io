@@ -18,7 +18,6 @@ Please contact us for access to the Discord server
 * [Facebook](https://www.facebook.com/PlutoMCR)
 * [Twitter](https://twitter.com/PlutoMCR)
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script>
     $('#forkme_banner').remove()
 </script>
