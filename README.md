@@ -20,5 +20,11 @@ Please contact us for access to the Discord server
 
 <script>
     $('#forkme_banner').remove()
-    $('body > div > footer > span.ribbon-outer > span.ribbon-inner > p').html("&nbsp;");
+    
+    var checkExist = setInterval(function() {
+       if ($('span.ribbon-inner > p').length) {
+          $('span.ribbon-inner > p').html("&nbsp;");
+          clearInterval(checkExist);
+       }
+    }, 100);
 </script>
