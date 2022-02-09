@@ -1,4 +1,6 @@
-<img align="center" src="https://raw.githubusercontent.com/xmakina/plutomcr/main/Pluto%20logo%20flat%202000px.png" alt="The Pluto Logo" width="250"/>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/xmakina/plutomcr/main/Pluto%20logo%20flat%202000px.png" alt="The Pluto Logo" width="250px"/>
+</p>
 
 # Social Meets
 
