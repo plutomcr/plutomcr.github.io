@@ -1,3 +1,5 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
 <p align="center">
     <img style="border:none; box-shadow: none;" src="https://raw.githubusercontent.com/xmakina/plutomcr/main/Pluto%20logo%20flat%202000px.png" alt="The Pluto Logo" width="250px"/>
 </p>
@@ -17,3 +19,7 @@ Please contact us for access to the Discord server
 * Email: `plutomcr@gmail.com`
 * [Facebook](https://www.facebook.com/PlutoMCR)
 * [Twitter](https://twitter.com/PlutoMCR)
+
+<script>
+    $('#forkme_banner').remove()
+</script>
