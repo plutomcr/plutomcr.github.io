@@ -1,5 +1,5 @@
 <p align="center">
-    <img style="border:none; box-shadow: none;" src="https://raw.githubusercontent.com/xmakina/plutomcr/main/Pluto%20logo%20flat%202000px.png" alt="The Pluto Logo" width="250px"/>
+    <img style="border:none; box-shadow: none;" src="https://raw.githubusercontent.com/plutomcr/plutomcr.github.io/main/Pluto%20logo%20flat%202000px.png" alt="The Pluto Logo" width="250px"/>
 </p>
 
 # Social Meets
