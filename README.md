@@ -5,12 +5,11 @@
 # Social Meets
 
 ## When We Meet
-We meet on the 3rd Wednesday of the month at 7:30pm
+We meet on the 3rd Wednesday of the month from 6:00pm to 8:00pm
 
 ## Where We Meet
-All meetings are online until further notice, usually on our Discord server
-
-Please contact us for access to the Discord server
+We are currently meeting at Contact Theatre, Oxford Road
+Manchester M15 6JA
 
 # Contact
 
