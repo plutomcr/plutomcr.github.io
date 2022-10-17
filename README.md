@@ -4,6 +4,15 @@
 
 # Social Meets
 
+## October 2022 Announcement
+
+We will be meeting on Tuesday 25th October from 6pm to 9pm
+At  The Proud Place
+for an extra special ACE WEEK event
+(more details on our social media platforms)
+
+**Please note this replaces our usual Wednesday meeting**
+
 ## When We Meet
 We meet on the 3rd Wednesday of the month from 6:00pm to 8:00pm
 
