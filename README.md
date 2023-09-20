@@ -7,14 +7,9 @@
 We meet on the 3rd Wednesday of the month from 6:00pm to 8:00pm
 
 ## Where We Meet
-Please check our Social Media pages for the next meeting.
-
-# Manchester Pride
-
-We are going to be marching in [Manchester Pride](https://www.manchesterpride.com/) on August 26th. March with us by [signing up today](https://bit.ly/3MR2OOy) 
+We meet at the [Manchester Museum](https://www.museum.manchester.ac.uk/visit-us/access/) on the Top Floor
 
 # Contact
-
 * Email: `plutomcr@gmail.com`
 * [Facebook](https://www.facebook.com/PlutoMCR)
 * [Twitter](https://twitter.com/PlutoMCR)
