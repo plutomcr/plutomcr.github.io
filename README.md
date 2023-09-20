@@ -9,6 +9,11 @@ We meet on the 3rd Wednesday of the month from 6:00pm to 8:00pm
 ## Where We Meet
 We meet at the [Manchester Museum](https://www.museum.manchester.ac.uk/visit-us/access/) on the Top Floor
 
+# Upcoming Events
+* November 18th : Discussion Night
+* December 20th : Board Games
+* January 17th : Quiz
+
 # Contact
 * Email: `plutomcr@gmail.com`
 * [Facebook](https://www.facebook.com/PlutoMCR)
