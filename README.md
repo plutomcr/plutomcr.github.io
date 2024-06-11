@@ -12,7 +12,7 @@ We meet at the [Manchester Museum](https://www.museum.manchester.ac.uk/visit-us/
 # Special Events
 ## Manchester Pride
 
-We are going to be marching in [Manchester Pride](https://www.manchesterpride.com/) on Saturday 24th August 2024. March with us by [signing up today](https://bit.ly/3MR2OOy) 
+We are going to be marching in [Manchester Pride](https://www.manchesterpride.com/) on Saturday 24th August 2024. March with us by [signing up today](https://forms.gle/5oPgCx3EpkFJzh6u7) 
 
 # Contact
 * Email: `plutomcr@gmail.com`
