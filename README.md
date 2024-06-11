@@ -7,12 +7,12 @@
 We meet on the 3rd Wednesday of the month from 6:00pm to 8:00pm
 
 ## Where We Meet
-We meet at the [Manchester Museum](https://www.museum.manchester.ac.uk/visit-us/access/) on the Top Floor
+We meet at the [Manchester Museum](https://www.museum.manchester.ac.uk/visit-us/access/) on the Top Floor. The welcome desk will be able to direct you if you can't find us.
 
 # Special Events
-## International Asexuality Day (IAD) 6th April 2024
-We will be meeting at [Queer Lit](https://www.queerlit.co.uk/) from 12pm to 3pm in the Social Refuge space.
-Come along, grab yourself a slice of cake, bring your knitting or a game or just yourself. However you want to celebrate being Ace!
+## Manchester Pride
+
+We are going to be marching in [Manchester Pride](https://www.manchesterpride.com/) on Saturday 24th August 2024. March with us by [signing up today](https://bit.ly/3MR2OOy) 
 
 # Contact
 * Email: `plutomcr@gmail.com`
