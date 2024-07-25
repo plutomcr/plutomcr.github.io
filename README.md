@@ -14,6 +14,10 @@ We meet at the [Manchester Museum](https://www.museum.manchester.ac.uk/visit-us/
 
 We are going to be marching in [Manchester Pride](https://www.manchesterpride.com/) on Saturday 24th August 2024. March with us by [signing up today](https://forms.gle/5oPgCx3EpkFJzh6u7) 
 
+# Library
+
+We maintain a [small library of books](https://docs.google.com/spreadsheets/d/1rOGQAZOlpW4S93UzdOChc3Wi9PWm2DZmBpo5MwtMado/) around aromanticism and asexuality that are available for our members to borrow
+
 # Contact
 * Email: `plutomcr@gmail.com`
 * [Facebook](https://www.facebook.com/PlutoMCR)
