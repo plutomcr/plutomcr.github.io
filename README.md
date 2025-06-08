@@ -4,7 +4,7 @@
 
 # Social Meets
 ## When We Meet
-We meet on the 3rd Wednesday of the month from 6:00pm to 8:00pm
+We meet on the 3rd Wednesday of the month from 6:00pm to 8:30pm
 
 ## Where We Meet
 We meet at the [Manchester Museum](https://www.museum.manchester.ac.uk/visit-us/access/) on the Top Floor. The welcome desk will be able to direct you if you can't find us.
@@ -12,7 +12,7 @@ We meet at the [Manchester Museum](https://www.museum.manchester.ac.uk/visit-us/
 # Special Events
 ## Manchester Pride
 
-We are going to be marching in [Manchester Pride](https://www.manchesterpride.com/) on Saturday 24th August 2024. March with us by [signing up today](https://forms.gle/5oPgCx3EpkFJzh6u7) 
+Information coming soon, keep an eye out for updates
 
 # Library
 
